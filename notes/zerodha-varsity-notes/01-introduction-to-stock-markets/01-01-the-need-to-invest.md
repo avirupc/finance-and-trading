@@ -3,9 +3,9 @@
 
 [Chapter link](https://zerodha.com/varsity/chapter/the-need-to-invest/)
 
-
-> - Principal Amount: The money you invest
-> - CAGR: Compund Annual Growth Rate (will be explained later)
+> #### 📌 Terminology
+> - **Principal Amount** - The money you invest
+> - **CAGR** - Compund Annual Growth Rate _(will be explained later)_
 
 ## Where to invest?
 
