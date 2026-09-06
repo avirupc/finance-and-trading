@@ -5,7 +5,11 @@
 
 _(Most of the materials metioned here for this chapter will be explained and elaborated in later chapters.)_
 
-> SEBI - The Securities and Exchange Board of India
+> #### 📌 Terminology
+> - **SEBI** — Securities and Exchange Board of India
+> - **NRI** — Non-Resident Indian
+> - **OCI** — Overseas Citizen of India
+
 
 ## Market Participants
 1. Domestic Retail Participants – These are people like you and me transacting in markets
