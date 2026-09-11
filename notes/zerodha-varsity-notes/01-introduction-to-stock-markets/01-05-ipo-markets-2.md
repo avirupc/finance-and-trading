@@ -37,7 +37,7 @@ Once the stock transitions from primary to secondary markets, the stock gets tra
 
 > #### 📌 Some key jargons
 > - **Under subscription** — Let’s say the company wants to offer 100,000 shares to the public. During the book-building process, it was discovered that only 90,000 bids were received, then the issue is said to be under-subscribed. This is not a great situation, as it indicates negative public sentiment.
-> - **Oversubscription** —  If there are 200,000 bids for 100,000 shares on offer, then the issue is said to be oversubscribed two times (2x)
-> - **Green Shoe Option** — Part of the issue document that allows the issuer to authorize additional shares (typically 15 percent) to be distributed in the event of oversubscription. This is also called the overallotment option
-> - **Fixed Price IPO** — Sometimes, the companies fix the price of the IPO and do not opt for a price band. Such issues are called fixed-price IPO
-> - **Price Band and Cut off price** — A price band is a price range between which the stock gets listed. For example, if the price band is between Rs.100 and Rs.130, then the issue can list within the range. Let’s say it gets listed at 125; 125 is the cut-off price
+> - **Oversubscription** —  If there are 200,000 bids for 100,000 shares on offer, then the issue is said to be oversubscribed two times (2x).
+> - **Green Shoe Option** — Part of the issue document that allows the issuer to authorize additional shares (typically 15 percent) to be distributed in the event of oversubscription. This is also called the overallotment option.
+> - **Fixed Price IPO** — Sometimes, the companies fix the price of the IPO and do not opt for a price band. Such issues are called fixed-price IPO.
+> - **Price Band and Cut off price** — A price band is a price range between which the stock gets listed. For example, if the price band is between Rs.100 and Rs.130, then the issue can list within the range. Let’s say it gets listed at 125; 125 is the cut-off price.
