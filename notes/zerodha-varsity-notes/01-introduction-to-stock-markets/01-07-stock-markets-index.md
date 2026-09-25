@@ -3,6 +3,10 @@
 
 [Chapter link](https://zerodha.com/varsity/chapter/the-stock-markets-index/)
 
+> #### 📌 Terminology
+> - **Sensex** — Short form of Sensitive Insex
+> - **Nifty** — Short form of National Stock Exchange Fifty
+
 ### A simple question: How to understand how the overall market is performing?
 
 There are ~ 5000 listed companies in BSE, ~ 2000 in NSE.<br>
