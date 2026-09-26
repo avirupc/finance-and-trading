@@ -44,7 +44,7 @@ Majority of the traders in the market trades on the index.
 
 Indian stock exchanges follow a **free float market capitalization** method. The weights are assigned based on the company's free-float market capitalization.<Br>
 
-$$ \text{Free-float market capitalization} = \text{total no. of shares outstanding in the market }\times\text{ stock price}$$
+Free-float market capitalization = total no. of shares outstanding in the market × stock price
 
 #### So, what is meant by 'total no. of shares outstanding in the market'?
 
